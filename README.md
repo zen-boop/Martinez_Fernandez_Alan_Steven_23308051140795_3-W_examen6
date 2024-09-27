@@ -1,0 +1,8 @@
+print(""); print("Alan Steven Martinez Fernandez: 0795"); print("")
+print("coloca un numero para saber si es par o impar");print("")#separa y da una instruccion
+n=int(input("coloca el numero"))#define como int separa hace posible modificar la variable y dice cuando es posible modificarla+}
+if n %2==0:#si "n" es %2 de 0 se ejecuta el codigo
+    print("par")#imprime par
+else:#en cas de que no se cumpla la condicion se ejecuta el ptro codigo
+    print("impar")
+![image](https://github.com/user-attachments/assets/89ceeeab-9825-457e-8a27-106b0aff0743)
